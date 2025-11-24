@@ -2,10 +2,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
   
   <h1>👋 Merhaba, Ben Hasan YILMAZ!</h1>
-  <p>
-    <b> | Yazılım Geliştirici | Teknoloji Meraklısı</b>
-  </p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2332F7&center=true&vCenter=true&width=435&lines=Gömülü+Sistem+Geliştiricisi;Arduino+ve+ESP32+Projeleri;3D+Baskı+Tutkunu;C%2C+C%2B%2B+ve+Python+Kodluyor" alt="Typing SVG" />
+  </a>
 
+  <br/>
+  
   <a href="https://github.com/haso5582-dot">
     <img src="https://komarev.com/ghpvc/?username=haso5582-dot&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
@@ -15,37 +18,17 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **ESP32** üzerinde çalışıyorum.
 - 🌱 **C, C++, Python ve Gömülü Sistemler** üzerine kendimi geliştiriyorum.
 - 💡 **Arduino, ESP32 ve IoT** projeleri üretmekten keyif alıyorum.
 - 🛠️ **3D Yazıcılar** ile tasarımlarımı hayata geçirmeyi seviyorum.
 - 📫 Bana ulaşmak için: **hasanyilmz555@gmail.com**
 
----
+### 🚀 Öne Çıkan Projem: IoT Akıllı Jaluzi Sistemi
 
-### 🛠️ Yetenekler & Araçlar
+Şu anda ev otomasyonu üzerine, ESP32 ve Step Motorlar kullanarak bir perde kontrol sistemi geliştiriyorum.
 
-<div align="center">
+| Proje | Kullanılan Teknolojiler | Durum |
+| :--- | :--- | :--- |
+| **Smart Blinds Control** | ![ESP32](https://img.shields.io/badge/ESP32-LightGrey?style=flat&logo=espressif) ![C++](https://img.shields.io/badge/C++-Blue?style=flat&logo=c%2B%2B) ![3D Print](https://img.shields.io/badge/3D_Print-Orange?style=flat&logo=bambulab) | 🟡 Geliştirme Aşamasında |
 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haso5582-dot&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haso5582-dot&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-</div>
+> **Detaylar:** 3 adet 28BYJ-
