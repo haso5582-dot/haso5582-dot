@@ -3,7 +3,7 @@
   
   <h1>👋 Merhaba, Ben Hasan YILMAZ!</h1>
   <p>
-    <b>Gömülü Sistemler | Yazılım Geliştirici | Teknoloji Meraklısı</b>
+    <b> | Yazılım Geliştirici | Teknoloji Meraklısı</b>
   </p>
 
   <a href="https://github.com/haso5582-dot">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **Gömülü Sistem Projeleri** üzerinde çalışıyorum.
+- 🔭 Şu anda **ESP32** üzerinde çalışıyorum.
 - 🌱 **C, C++, Python ve Gömülü Sistemler** üzerine kendimi geliştiriyorum.
 - 💡 **Arduino, ESP32 ve IoT** projeleri üretmekten keyif alıyorum.
 - 🛠️ **3D Yazıcılar** ile tasarımlarımı hayata geçirmeyi seviyorum.
